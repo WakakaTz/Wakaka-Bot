@@ -37,7 +37,7 @@
              "google-tts-api": "^2.0.2",
              "heroku-client": "3.1.0",
              "human-readable": "^0.2.1",
-             "jimp": "^0.16.1",
+             "jimp": "^0.22.0",
              "jsdom": "^16.4.0",
              "koyeb-api-client": "latest",
              "moment-timezone": "^0.5.34",
