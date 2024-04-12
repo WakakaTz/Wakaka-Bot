@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
+  <a href="https://www.instagram.com/wakaka_tanzania/">
     <img alt="Wakaka-BOT" height="400" src="https://telegra.ph/file/08ac5b27abfb6f5ac4397.png">
   </a>
 </p>
@@ -25,8 +25,8 @@
 
 
 
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
-    <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="Wakaka-Bot is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
+    <img alt="Wakaka Tanzania" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
