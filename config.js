@@ -8,7 +8,7 @@ global.video= "" ;
 global.port =process.env.PORT
 global.appUrl=process.env.APP_URL || ""                       // put your app url here,
 global.email ="samsamsun789@gmail.com"
-global.location="Lahore,Pakistan."
+global.location="Morogoro, Tanzania."
 
 
 global.mongodb= process.env.MONGODB_URI || ""
@@ -18,8 +18,8 @@ global.DATABASE_URL = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
 global.github=process.env.GITHUB|| "https://github.com/WakakaTz/Suhail-Md";
-global.gurl  =process.env.GURL  || "";
-global.website=process.env.GURL || "" ; 
+global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VabUjmHG3R3pY0mEro0I";
+global.website=process.env.GURL || "https://whatsapp.com/channel/0029VabUjmHG3R3pY0mEro0I" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/08ac5b27abfb6f5ac4397.png" ; // SET LOGO FOR IMAGE 
 
 
