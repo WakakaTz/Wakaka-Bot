@@ -1,15 +1,15 @@
 {
-  "name": "suhail-md@1.3.1",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
-  "logo": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
+  "name": "wakakabot@1.3.1",
+  "description": "I am Wakaka BOT Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
+  "logo": "https://telegra.ph/file/08ac5b27abfb6f5ac4397.png",
+  "keywords": ["whatsappbot", "wakakabot", "wakaka tanzania bot", "Wakaka-Bot", "WakakaWhatsaooBot", "WakakaWaBot","WakakaBOT","Wakaka Bot Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
   
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "Mr. Kalulu",
       "required" :true
     },   
      
@@ -26,18 +26,18 @@
     },
     "BOT_NAME": {
       "description": " NAME FOR BOT",
-      "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "required" :true,    
+      "value": "Wakaka-BOT"
     }, 
     "USER_IMAGES": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/758549f0de2219884f387.jpg,https://telegra.ph/file/9498496b010dfb5900b80.jpg,https://telegra.ph/file/59bf80efbb6e6576b5a52.jpg,https://telegra.ph/file/ee0e191363161e88e4743.jpg"
+      "value": "https://telegra.ph/file/08ac5b27abfb6f5ac4397.png"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Asia/Karachi"
+      "value": "Tanzania"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -100,7 +100,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "255626753818"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -128,7 +128,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "Wakaka BOT",
       "required": false 
     },
     "PACK_AUTHER": {
