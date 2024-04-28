@@ -16,15 +16,14 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
-   * @version 1.3.0
+      * @project_name : Wakaka-Bot
+   * @author : Mr. Kalulu 
+   * @description : Wakaka-Bot ,A Multi-functional whatsapp user bot.
+   * @version 1.2.8
 *
 * 
-   * Created By Suhail Tech Info.
-   * © 2024 Suhail-Md.
+   * Created By Kalulu Sunday.
+   * © 2024 Wakaka Tanzania.
  ⛥┌┤
  */
  
@@ -53,7 +52,7 @@
 /*
 let "USER_IMAGES" = {
       "description": "Put IMAGES/VIDEOS URL, Make Sure Url have extention like .mp4,.jpg,.png etc",
-      "value": "https://telegra.ph/file/d90855d13352c8aae3981.mp4",
+      "value": "https://telegra.ph/file/08ac5b27abfb6f5ac4397.png",
       "required" :false
     },
 */
