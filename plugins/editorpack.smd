@@ -16,20 +16,19 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : Wakaka-Bot
+   * @author : Mr. Kalulu 
+   * @description : Wakaka-Bot ,A Multi-functional whatsapp user bot.
    * @version 1.2.8
 *
 * 
-   * Created By Suhail Tech Info.
-   * © 2024 Suhail-Md.
+   * Created By Kalulu Sunday.
+   * © 2024 Wakaka Tanzania.
 */
 
 
 
-let Suhail_Md = "Suhail MD Whatsapp bot md"
+let Suhail_Md = "Wakaka-Bot"
 let baseApi = process.env.API_SMD || global.api_smd || "https://api-smd-1.vercel.app"
 
 
